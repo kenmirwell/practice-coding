@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
+
+.main-content {
+    min-width: 240px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+
+}
